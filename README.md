@@ -36,3 +36,13 @@ Ensure your system has enough free memory for the size you choose!
 ## 📜 License
 
 This script is provided "as is" without warranty of any kind. Use it responsibly, especially the cleanup (delete) function.
+---
+
+## 🔄 Version History
+
+### **v1.1 (Current)**
+* **Fix:** Resolved a critical bug where files containing special characters (such as `!`) caused the script to misinterpret paths and create malformed archives.
+* **Improvement:** Optimized path handling using subroutines for better stability with complex filenames.
+
+### **v1.0**
+* Initial release with recursive folder support and dynamic dictionary size input.
