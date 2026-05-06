@@ -1,3 +1,8 @@
+REM =======================================================
+REM 7z-Mass-Compressor v1.1
+REM Created by Cody Clowes (https://github.com/clowesc/7z-Mass-Compressor)
+REM Licensed under MIT License
+REM =======================================================
 @echo off
 setlocal DisableDelayedExpansion
 
